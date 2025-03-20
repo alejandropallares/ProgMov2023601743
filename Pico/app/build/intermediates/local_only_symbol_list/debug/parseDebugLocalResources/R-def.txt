@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pico_diamantes
+drawable pico_vertical
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw minecraft_breaking_mining_stone_sound
+string app_name
+style Theme.Pico
+xml backup_rules
+xml data_extraction_rules
